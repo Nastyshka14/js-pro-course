@@ -6,6 +6,6 @@
 ## This is my repository for the js-pro course.
 
 ### I graduated from BNTU.
-### I work as a rationing engineer(for now).
+### I work as a rationing engineer (for now).
 
 #### I love js, like spending time with my friends, like to play volleyball and I recently learned to knit.

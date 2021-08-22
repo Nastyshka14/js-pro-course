@@ -8,7 +8,4 @@
 ### I graduated from BNTU.
 ### I work as a rationing engineer.
 
-#### I love js.
-#### I like spending time with my friends.
-#### I like to play volleyball.
-#### I recently learned to knit.
+#### I love js, like spending time with my friends, like to play volleyball and I recently learned to knit.

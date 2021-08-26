@@ -4,8 +4,3 @@
 
 ## I am studying at TeachMeSkills.
 ## This is my repository for the js-pro course.
-
-### I graduated from BNTU.
-### I work as a rationing engineer (for now).
-
-#### I love js, I like to spend time with my friends, play volleyball, I recently learned to knit.

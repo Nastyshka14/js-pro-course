@@ -15,7 +15,7 @@
 // 2
 // Сделайте промис, внутри которого будет setTimeout в 3 секунды, после которой промис должен зареджектится (то есть выполнится с ошибкой).\
 
-// let promise = new Promise((reject) => {
+// let promise = new Promise((resolve, reject) => {
 //   setTimeout(() => {
 //     reject(new Error("The promise was rejected"));
 //   }, 3000);
